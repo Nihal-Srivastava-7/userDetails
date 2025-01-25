@@ -6,3 +6,6 @@ User Data Display with Pagination and Responsive Design
 2. Install dependencies: npm install.
 3. Install React Router and Bootstrap: npm install react-router-dom bootstrap.
 4. Start the app: npm run dev.
+
+
+Project Link - https://userdetailspagination.netlify.app/
